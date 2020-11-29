@@ -14,3 +14,5 @@ Using the Update functionality to modify an item.
 
 Using the Delete functionality to remove an item.
 ![GET Command](https://cdn.discordapp.com/attachments/755504752011378822/782652948634271784/unknown.png)
+
+You can clone it and run it with npm run dev. Be sure to install any dependancies neccessary to run the application.
